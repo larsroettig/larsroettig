@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there,
 
-<!--
-**larsroettig/larsroettig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop Magento Projects as Software Engineer at TechDivision GmbH.Over 9 years of development experience working with different clients over the world. 
 
-Here are some ideas to get you started:
+As Magento PWA Studio Maintainer i try help with any problem or feature request.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my Free time I really like to bask in nature’s glory right here in the south of Bavaria. 
+
+I also like cycling, hiking or sometimes just relax somewhere to free the mind and gain new ideas.
+
+- 📫 How to reach me:
+
+- https://larsroettig.dev/
+- https://twitter.com/LarsRoettig
