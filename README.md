@@ -22,4 +22,4 @@ I also like cycling, hiking or sometimes just relax somewhere to free the mind a
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=larsroettig&show_icons=true" align="right" height="150" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=larsroettig)](https://github.com/larsroettig)
+[![LarsRoettig wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=larsroettig)](https://wakatime.com/@larsroettig)
