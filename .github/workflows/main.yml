@@ -30,4 +30,6 @@ jobs:
           plugin_topics_limit: 15
           plugin_opics_mode: mastered
           plugin_lines: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
          
