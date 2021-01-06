@@ -17,9 +17,6 @@ I also like cycling, hiking or sometimes just relax somewhere to free the mind a
 
 <br/>
 
-<a href="https://github.com/larsroettig">
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larsroettig&hide=css,html"/>
-  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=larsroettig&show_icons=true" align="right" height="150" />
-</a>
+[![LarsRoettig wakatime stats](https://raw.githubusercontent.com/larsroettig/larsroettig/master/github-metrics.svg)
 
 [![LarsRoettig wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=larsroettig)](https://wakatime.com/@larsroettig)
