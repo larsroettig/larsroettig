@@ -22,11 +22,12 @@ jobs:
           config_timezone: Europe/Berlin
           plugin_languages: yes
           plugin_languages_ignored: css
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_projects_repositories: larsroettig-next,
-          plugin_tweets: yes
-          plugin_tweets_limit: 4
+          plugin_projects_repositories: larsroettig-next
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
+          plugin_opics_mode: mastered
+          plugin_lines: yes
+         
