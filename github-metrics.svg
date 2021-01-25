@@ -751,7 +751,7 @@
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-          48813 Stargazers
+          48814 Stargazers
         </div>
         <div class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -779,21 +779,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="232.0384749640489" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="232.04539179792542" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="232.0384749640489" y="0" width="121.26482037346732" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="232.04539179792542" y="0" width="121.26114094283774" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="353.30329533751626" y="0" width="101.4263079141008" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="353.30653274076315" y="0" width="101.42323042581661" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="454.7296032516171" y="0" width="4.41985749130317" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="454.72976316657974" y="0" width="4.41972338349695" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="459.1494607429202" y="0" width="0.6521391777062522" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.1494865500767" y="0" width="0.6521193904269917" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.8015999206265" y="0" width="0.12218609020044102" height="8" fill="#f7931e"/>
+          <rect mask="url(#languages-bar)" x="459.80160594050363" y="0" width="0.12218238281654016" height="8" fill="#f7931e"/>
         
-          <rect mask="url(#languages-bar)" x="459.923786010827" y="0" width="0.06064994051200494" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="459.9237883233202" y="0" width="0.060648100264783074" height="8" fill="#384d54"/>
         
-          <rect mask="url(#languages-bar)" x="459.9844359513389" y="0" width="0.015564048661071589" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="459.98443642358495" y="0" width="0.015563576414980863" height="8" fill="#3572A5"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -880,11 +880,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
-                  <text x="60" y="60" dominant-baseline="central">92</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="292.81 329"/>
+                  <text x="60" y="60" dominant-baseline="central">89</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -975,7 +975,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Europe/Berlin</span>
-          <span>Last updated Mon, 25 Jan 2021 09:44:00 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 25 Jan 2021 10:45:57 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
