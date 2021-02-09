@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="648" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="593" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -888,21 +888,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="233.09440287465702" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="233.0010406182851" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="233.09440287465702" y="0" width="117.00936171260888" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="233.0010406182851" y="0" width="117.05750621924304" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="350.1037645872659" y="0" width="104.48082328511218" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="350.0585468375281" y="0" width="104.52381281702797" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="454.58458787237805" y="0" width="4.26475462813807" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="454.5823596545561" y="0" width="4.266509398051197" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="458.8493425005161" y="0" width="0.8410007622795144" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="458.8488690526073" y="0" width="0.8413467992648141" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="459.69034326279564" y="0" width="0.17674056436568086" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="459.6902158518721" y="0" width="0.17681328578855748" height="8" fill="#384d54"/>
         
-          <rect mask="url(#languages-bar)" x="459.8670838271613" y="0" width="0.11789830208366858" height="8" fill="#f7931e"/>
+          <rect mask="url(#languages-bar)" x="459.86702913766067" y="0" width="0.11794681235245169" height="8" fill="#f7931e"/>
         
-          <rect mask="url(#languages-bar)" x="459.984982129245" y="0" width="0.015017870754991329" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="459.98497595001317" y="0" width="0.015024049986871683" height="8" fill="#3572A5"/>
         
       </svg>
       
@@ -981,64 +981,19 @@
       </h2>
       <div class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"/></svg>
-        https://larsroettig.dev
+        
       </div>
     </section>
   </div>
   
-    <section>
-      <div class="row fill-width">
-        <section class="categories">
-          
-            <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
-                  <text x="60" y="60" dominant-baseline="central">95</text>
-                
-              </svg>
-              <span class="title">Performance</span>
-            </div>
-          
-            <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                  <text x="60" y="60" dominant-baseline="central">100</text>
-                
-              </svg>
-              <span class="title">Accessibility</span>
-            </div>
-          
-            <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                  <text x="60" y="60" dominant-baseline="central">93</text>
-                
-              </svg>
-              <span class="title">Best Practices</span>
-            </div>
-          
-            <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                  <text x="60" y="60" dominant-baseline="central">100</text>
-                
-              </svg>
-              <span class="title">SEO</span>
-            </div>
-          
-        </section>
-      </div>
-    </section>
-    
-    
+    <div class="row">
+      <section>
+        <div class="field error">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
+          API returned 500 (FAILED_DOCUMENT_REQUEST)
+        </div>
+      </section>
+    </div>
   
 
       
@@ -1091,7 +1046,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Berlin</span>
           
-          <span>Last updated Tue, 09 Feb 2021 10:11:02 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Tue, 09 Feb 2021 11:09:53 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
