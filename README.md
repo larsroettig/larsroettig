@@ -17,4 +17,4 @@ I also like cycling, hiking or sometimes just relax somewhere to free the mind a
 
 <br/>
 
-[!LarsRoettig wakatime stats](https://raw.githubusercontent.com/larsroettig/larsroettig/master/github-metrics.svg)
+![LarsRoettig wakatime stats](https://raw.githubusercontent.com/larsroettig/larsroettig/master/github-metrics.svg)
