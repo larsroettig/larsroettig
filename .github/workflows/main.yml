@@ -31,5 +31,7 @@ jobs:
           plugin_opics_mode: mastered
           plugin_lines: yes
           plugin_pagespeed: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
          
