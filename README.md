@@ -1,9 +1,6 @@
 ![header](https://raw.githubusercontent.com/larsroettig/larsroettig/master/images/Twitter_Header.jpg)
 
 
-
-## Hi there,
-
 <p align="center">
   <a href="https://github.com/larsroettig?tab=followers">
     <img src="https://img.shields.io/github/followers/larsroettig?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -16,7 +13,7 @@
   </a>
 </p>
 
-
+## Hi there,
 
 I develop Magento Projects as Software Engineer at TechDivision GmbH.Over 9 years of development experience working with different clients over the world. 
 As Magento PWA Studio Maintainer i try help with any problem or feature request.
