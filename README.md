@@ -3,7 +3,7 @@
 
 
 ## Hi there,
-<a href="https://twitter.com/LarsRoettig"><img alt="Git Stats" src="https://img.shields.io/twitter/follow/larsroettig?style=for-the-badge"/></a>
+
 <p align="center">
   <a href="https://github.com/larsroettig?tab=followers">
     <img src="https://img.shields.io/github/followers/larsroettig?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
