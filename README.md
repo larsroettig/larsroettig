@@ -1,11 +1,5 @@
 
 
-<p align="center">
-
-  <a href="http://youtube.com/LarsRoettig?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/views/UChc7jbOW4s_DRyS56zwD-cQ??label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-</p>
 
 ## Hi there,
 
